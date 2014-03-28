@@ -2,8 +2,6 @@
 
 # Docker autocompletion for oh-my-zsh
 # Requires: Docker installed
-# Author : Azaan (@aeonazaan)
-
 
 # ----- Helper functions
 # Output a selectable list of all running docker containers
